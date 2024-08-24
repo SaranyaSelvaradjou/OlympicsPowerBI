@@ -8,3 +8,6 @@ This project showcases the journey of the Olympic Games from 1896 to 2016. Throu
 
 ## Dataset
 - **Source:** [120 Years of Olympic History Dataset](https://www.kaggle.com/datasets/mysarahmadbhat/120-years-of-olympic-history)
+
+## Contributions
+Contributions to this project are welcome! If you have ideas for enhancing the visualizations or uncovering new insights, feel free to fork the repository and create a pull request.
